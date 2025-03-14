@@ -2,8 +2,6 @@
 ## Instalação
 
 ```bash
-# 
-
 # Acesse o diretório do projeto
 cd disp-moveis-ativ02
 
