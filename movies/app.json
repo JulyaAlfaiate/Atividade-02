@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "disp-moveis-ativ02",
-    "slug": "disp-moveis-ativ02",
+    "name": "Cultura BR",
+    "slug": "Cultura BR",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/barra-de-carregamento.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
@@ -22,7 +22,7 @@
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/pipoca (1).png"
     }
   }
 }
