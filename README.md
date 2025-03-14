@@ -3,7 +3,7 @@
 
 ```bash
 # Acesse o diretório do projeto
-cd disp-moveis-ativ02
+cd movies
 
 # Instale as dependências
 npm install
