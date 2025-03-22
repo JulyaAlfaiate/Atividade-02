@@ -4,7 +4,7 @@ import { StatusBar } from 'expo-status-bar';
 
 export default function App() {
   const [selectedContent, setSelectedContent] = useState(null);
-  const [filter, setFilter] = useState('all'); // 'all', 'movies', 'series'
+  const [filter, setFilter] = useState('all'); 
 
   // Dados dos filmes e séries
   const content = [
